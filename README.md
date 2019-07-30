@@ -1,6 +1,10 @@
 # freeCodeCampChallenges
-Small projects made for freeCodeCamp
+Improved versions of projects I made for freeCodeCamp
 
-Project number 1 - Tribute page.
-The codepen link - https://codepen.io/ykumashev/pen/oKLKVY
-The assignment itself - https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
+Project 1 - Tribute page.
+Initial project link -  https://codepen.io/ykumashev/pen/oKLKVY
+Assignment link -       https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
+
+Project 2 - Survey form.
+Initial project link -  https://codepen.io/ykumashev/pen/xvqJGZ
+Assignment link -       https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form
