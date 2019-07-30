@@ -1,5 +1,5 @@
 # freeCodeCampChallenges
-Improved versions of projects I made for freeCodeCamp
+Improved versions of projects I made for freeCodeCamp(to see them open ResponsiveWebDesign/src )
 
 Project 1 - Tribute page.
 Initial project link -  https://codepen.io/ykumashev/pen/oKLKVY
